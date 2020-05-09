@@ -2,3 +2,4 @@ Rencana konten
 - membuat php framework
 - membuat react js
 - belajar tutorial ruby on rails
+- belajar struktur data dasar
