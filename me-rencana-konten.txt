@@ -5,3 +5,4 @@ Rencana konten
 - membuat react js
 - belajar tutorial ruby on rails
 - belajar struktur data dasar
+- materi mysql workbrench
