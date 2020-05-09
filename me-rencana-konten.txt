@@ -6,3 +6,7 @@ Rencana konten
 - belajar tutorial ruby on rails
 - belajar struktur data dasar
 - materi mysql workbrench
+- materi javascript
+  * node js
+  * angular js
+
