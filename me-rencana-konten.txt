@@ -1,5 +1,7 @@
 Rencana konten
-- membuat php framework
+- belajar framework
+  * laravel
+  * codeigniter
 - membuat react js
 - belajar tutorial ruby on rails
 - belajar struktur data dasar
