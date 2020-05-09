@@ -5,7 +5,8 @@ Rencana konten
 - membuat react js
 - belajar tutorial ruby on rails
 - belajar struktur data dasar
--  tambahkan materi phyton
+- materi mysql workbrench
 - materi javascript
   * node js
   * angular js
+
